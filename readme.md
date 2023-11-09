@@ -8,16 +8,28 @@ Experience the future of wedding invitations with our cutting-edge and visually 
 
 ## Features
 
-Immersive Digital Invitations: Send interactive, futuristic digital invitations that captivate your guests with innovative designs and animations.
+## Immersive Digital Invitations
 
-Personalized Avatars: Create personalized digital avatars of the bride and groom, enhancing the invitation with a touch of sci-fi charm.
-![undangan-home.png](https://github.com/aldiandarwin/undangan-digital/assets/70283015/2c5864f5-70ec-4c31-b3ca-0a0fd5b4838e)
+"Send interactive, futuristic digital invitations that captivate your guests with innovative designs and animations.""
 
-Real-time RSVP Tracking: Seamlessly manage your guest list with real-time RSVP updates, ensuring you're always in the know about who's attending.
-![acara.png](https://github.com/aldiandarwin/undangan-digital/assets/70283015/c1306d7b-dfec-4675-957d-0b1bff173efa)
+## Personalized Avatars
 
-Virtual Venue Tours: Take your guests on a virtual tour of the wedding venue, allowing them to explore the futuristic ambiance from the comfort of their homes.
-![undangan-info.png](https://github.com/aldiandarwin/undangan-digital/assets/70283015/17ad9ca8-2d0d-4ce3-ac10-21be93666e2d)
+Create personalized digital avatars of the bride and groom, enhancing the invitation with a touch of sci-fi charm.
+![undangan-home.png](https://github.com/aldiandarwin/undangan-weding-digital/assets/70283015/9e4b5b39-92c3-4ca7-9ff0-e8a549796103)
 
-Smart Gift Registry: Curate a smart gift registry that suggests personalized gift options based on your preferences, making it easy for guests to choose meaningful presents.
-![konfirmasi.png](https://github.com/aldiandarwin/undangan-digital/assets/70283015/92ab3f9a-65bd-4309-85c0-bb6b0cf941ac)
+## Real-time RSVP Tracking
+
+ Seamlessly manage your guest list with real-time RSVP updates, ensuring you're always in the know about who's attending.
+
+![acara.png](https://github.com/aldiandarwin/undangan-weding-digital/assets/70283015/19be4ab8-597d-432a-8661-86a1a3793a28)
+
+## Virtual Venue Tours
+
+Take your guests on a virtual tour of the wedding venue, allowing them to explore the futuristic ambiance from the comfort of their homes.
+
+![undangan-info.png](https://github.com/aldiandarwin/undangan-weding-digital/assets/70283015/11c06ef4-cbba-4a17-abe8-e41f9c01d817)
+
+## Smart Gift Registry
+
+ Curate a smart gift registry that suggests personalized gift options based on your preferences, making it easy for guests to choose meaningful presents.
+![konfirmasi.png](https://github.com/aldiandarwin/undangan-weding-digital/assets/70283015/76177e56-0c8b-4a1c-98ff-6f4a227f8456)
